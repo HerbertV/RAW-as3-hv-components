@@ -15,7 +15,7 @@ RAW means with out examples and docs.
 
 Git BASH:
 
-  // adding submodule
+	// adding submodule
 	git submodule add git@github.com:HerbertV/RAW-as3-hv-components.git as3/hv/components
 
 	// init submodule
