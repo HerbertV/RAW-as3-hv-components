@@ -21,6 +21,8 @@
 package as3.hv.components.progress
 {
 	
+	import as3.hv.components.AbstractComponent;
+	
 	// =========================================================================
 	// Abstract Class AbstractProgressSymbol
 	// =========================================================================
