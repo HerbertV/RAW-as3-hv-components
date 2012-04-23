@@ -1,9 +1,8 @@
-
 #RAW as3.hv.components.*
 
 -----------------------------------
 
-*RAW version of swc component classes for  Actionscript 3*
+*RAW version of SWC component classes for  Actionscript 3*
 
 So they can easily be included as submodules into other repos.
 RAW means with out examples and docs.
