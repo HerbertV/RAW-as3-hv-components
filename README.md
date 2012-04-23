@@ -16,14 +16,14 @@ RAW means with out examples and docs.
 Git BASH:
 
   // adding submodule
-	git submodule add git@github.com:HerbertV/RAW-as3-hv-core.git as3/hv/core
+	git submodule add git@github.com:HerbertV/RAW-as3-hv-components.git as3/hv/components
 
 	// init submodule
 	git submodule init
 	git submodule update
 
-	// change dir to as3/hv/core
-	cd as3/hv/core
+	// change dir to as3/hv/components
+	cd as3/hv/components
 	
 	git checkout master
 	git pull
