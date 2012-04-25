@@ -69,6 +69,10 @@ package as3.hv.components.tooltip
 		public function AbstractTooltip():void
 		{
 			super();
+			
+			// to prevent mouse events 
+			this.mouseEnabled = false;
+			this.mouseChildren = false;
 		}
 		
 		
